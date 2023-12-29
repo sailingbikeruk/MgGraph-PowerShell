@@ -1,0 +1,1 @@
+.\GetAzureADDevicesReport.ps1 -TenantId< TenantId> -ClientId <ClientId> -CertificateThumbprint<CertThumbprint>

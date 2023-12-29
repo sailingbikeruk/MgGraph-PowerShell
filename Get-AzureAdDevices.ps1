@@ -22,7 +22,7 @@
         .\GetAzureADDevicesReport.ps1
 
         To Use Crtoficate based authentication (App Only)
-        .\GetAzureADDevicesReport.ps1 -TenantId< TenantId> -ApplicationId <AppId> -CertificateThumbprint<CertThumbprint>
+        .\GetAzureADDevicesReport.ps1 -TenantId< TenantId> -ClientId <ClientId> -CertificateThumbprint<CertThumbprint>
 
         To export only Managed Devices
         .\GetAzureADDevicesReport.ps1 -ManagedDevice
